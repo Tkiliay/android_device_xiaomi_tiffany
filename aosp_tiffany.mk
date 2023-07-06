@@ -30,3 +30,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "xiaomi/tiffany/tiffany:8.1.0/OPM1.171019.019/V10.2.3.0.ODBCNXM:user/release-keys"
+
+## Boot Animation
+TARGET_BOOT_ANIMATION_RES := 1080
+
